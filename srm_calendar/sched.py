@@ -35,7 +35,7 @@ tt = [
     maths(do=2, start="11:35", to="12:25"),
     lab_ade(do=2, start="13:25", to="15:10"),
 
-    lab_dsa(do=3, start="8:00", to="9:45"),
+    lab_dsa(do=3, start="8:00", to="9:40"),
     ade(do=3, start="12:30", to="14:15"),
     maths(do=3,start="14:20",to="15:10"),
     comp_org(3, "15:15", "16:05"),
